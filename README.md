@@ -5,4 +5,4 @@ I compared neural network approach by Bert with classical ML approach (TF-IDF + 
 
 Source code is located in Notebook folder.
 
-Report.pdf - report about project as mini research article.
+Toxic_Comment_Classification_NLP_Project_article.pdf - report about project as mini research article.
